@@ -1,4 +1,3 @@
-# KittynomicaVerse-P2E
 # Blockonnect - Konnect & Explore Advanced Blockchain Utilization
 
 ![Blockonnect Logo](<link_to_your_logo_image>)
